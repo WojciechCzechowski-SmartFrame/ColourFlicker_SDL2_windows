@@ -1,3 +1,8 @@
+# What is this about?
+This repository contains sources of a program demonstrating issues of non-uniform frame pacing, through colour flickering.
+
+---
+
 # Build instructions
 
 To build this app it is necessary to install the MinGW-w64 toolchain first. To do so, follow the steps described here: https://code.visualstudio.com/docs/cpp/config-mingw#_installing-the-mingww64-toolchain
